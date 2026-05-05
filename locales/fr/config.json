@@ -2,7 +2,7 @@
 	"name": "Français",
 	"version": "1.8.1",
 	"author": "Benoit SALLÉ, Arthur UBERTI et StiglarG",
-	"publiiSupport": "0.47.0",
+	"publiiSupport": "0.47.3",
 	"momentLocale": "fr",
 	"wysiwygTranslation": true
 }
